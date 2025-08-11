@@ -1,0 +1,54 @@
+# Archivos y carpetas de entornos virtuales
+.venv/
+env/
+venv/
+
+# Archivos de configuración de entorno
+*.env
+*.venv
+.env.*
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Archivos generados por Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de resultados y figuras generados
+/results/*
+/figures/*
+
+# CSV, TSV, y otros datos grandes
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.sqlite
+*.zip
+*.gz
+
+# Archivos de logs
+*.log
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+*.iml
+
+# Archivos de compilación
+build/
+dist/
+*.egg-info/
+
+# Reportes o documentos generados automáticamente
+*.pdf
+*.docx
