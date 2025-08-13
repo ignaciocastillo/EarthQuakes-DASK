@@ -123,5 +123,3 @@ pip install dask[complete] pandas numpy matplotlib
 - Lectura y construcción de `time` desde `tgl`+`ot`.  
 - Descriptivos y conteos (`describe`, `value_counts`, groupby diario).  
 - Comparativa Pandas vs Dask con `perf_counter`.  
-
-> Nota: El notebook final entregado (`AnalisisDask_equipo_final.ipynb`) contiene **todo el código comentado en primera persona plural** y produce exactamente las figuras y tablas referidas en este informe.
